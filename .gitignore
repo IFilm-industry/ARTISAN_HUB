@@ -20,3 +20,15 @@ desktop.ini
 # Logs
 *.log
 npm-debug.log*
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
