@@ -14,4 +14,4 @@ A LinkedIn-style platform for artists worldwide. Artists showcase their work (im
 2. `npm install`
 3. Create `.env` with: `PORT=3000`, `MONGO_URI=your_mongodb_uri`, `JWT_SECRET=your_secret`
 4. `npm start`
-5. Open https://artisan-hub-fqi8.onrender.com/
+5. Open http://localhost:3000/
